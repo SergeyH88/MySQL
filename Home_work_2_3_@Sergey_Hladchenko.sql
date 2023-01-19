@@ -1,4 +1,4 @@
-			--Home_work_2_SQL
+			--Home_work_1_SQL
 
 -- 1)Создать таблицу employees
 
@@ -87,7 +87,7 @@ select * from roles_employee;
 
                          THE__AND
 
-                     --Home work_3 SQL
+                     --Home work_2 SQL
                          
 --1) Вывести имена всех работников чьи зарплаты есть в базе, вместе с зарплатами.
 
